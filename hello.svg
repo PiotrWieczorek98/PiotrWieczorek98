@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="64" viewBox="0 0 400 64">
+  <title>Hi</title>
+  <style>
+    text { font: 600 40px -apple-system, "Segoe UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
+           fill: #888; opacity: 0; animation: f 28s infinite; }
+    @keyframes f { 0%{opacity:0;transform:translateY(6px)} 1.9%,5.8%{opacity:1;transform:none} 7.14%,100%{opacity:0;transform:translateY(-6px)} }
+  </style>
+  <text x="0" y="46" style="animation-delay:0s">Hello,</text>
+  <text x="0" y="46" style="animation-delay:2s">Cześć,</text>
+  <text x="0" y="46" style="animation-delay:4s">Hola,</text>
+  <text x="0" y="46" style="animation-delay:6s">Bonjour,</text>
+  <text x="0" y="46" style="animation-delay:8s">你好,</text>
+  <text x="0" y="46" style="animation-delay:10s">Ciao,</text>
+  <text x="0" y="46" style="animation-delay:12s">नमस्ते,</text>
+  <text x="0" y="46" style="animation-delay:14s">Hallo,</text>
+  <text x="0" y="46" style="animation-delay:16s">Olá,</text>
+  <text x="0" y="46" style="animation-delay:18s">こんにちは,</text>
+  <text x="0" y="46" style="animation-delay:20s">مرحبا,</text>
+  <text x="0" y="46" style="animation-delay:22s">안녕하세요,</text>
+  <text x="0" y="46" style="animation-delay:24s">Merhaba,</text>
+</svg>
