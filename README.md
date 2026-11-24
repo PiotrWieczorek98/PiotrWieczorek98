@@ -20,13 +20,3 @@ After hours I mess with homelab and  SDRs.
 
 [![Ham Radio](https://img.shields.io/badge/Ham%20Radio-SN1FFA-E8590C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI5IiByPSIxLjUiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTIgMTF2MTFNOCAyMmg4TTcuOCA0LjhhNiA2IDAgMCAwIDAgOC40TTE2LjIgNC44YTYgNiAwIDAgMSAwIDguNE00LjYgMS42YTEwLjUgMTAuNSAwIDAgMCAwIDE0LjhNMTkuNCAxLjZhMTAuNSAxMC41IDAgMCAxIDAgMTQuOCIvPjwvc3ZnPg==)](https://www.qrz.com/db/SN1FFA)
 [![Meshtastic](https://img.shields.io/badge/Meshtastic-CDR1-67EA94?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMiAxOSA5IDVNOSAxOWw2LjUtMTJMMjIgMTkiLz48L3N2Zz4=)](https://meshtastic.org)
-
-
-## Projects
-
-- [**piw-devtools**](https://github.com/PiotrWieczorek98/piw-devtools): collection of tools I use at work, written in TypeScript
-- [**openXplore**](https://github.com/PiotrWieczorek98/openxplore): Tool to read, write and mount Xbox 360 hard drives on Linux, written in Rust
-- [**GPLatch**](https://github.com/PiotrWieczorek98/gplatch): free alternative to GP Connect GUI, written in Rust
-
-
-🟡🔵🦅
