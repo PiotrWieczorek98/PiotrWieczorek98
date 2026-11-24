@@ -24,8 +24,9 @@ After hours I mess with homelab and  SDRs.
 
 ## Projects
 
-- [**gplatch**](https://github.com/PiotrWieczorek98/gplatch): free alternative to GP Connect GUI, written in Rust
 - [**piw-devtools**](https://github.com/PiotrWieczorek98/piw-devtools): collection of tools I use at work, written in TypeScript
+- [**openXplore**](https://github.com/PiotrWieczorek98/openxplore): Tool to read, write and mount Xbox 360 hard drives on Linux, written in Rust
+- [**GPLatch**](https://github.com/PiotrWieczorek98/gplatch): free alternative to GP Connect GUI, written in Rust
 
 
 🟡🔵🦅
